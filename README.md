@@ -27,6 +27,7 @@
     -   Network
     -   WiFi
     -   Screenshot
+    -   Disable Taskmanager
 -   Anti-debug
 
     -   Check if being run in a virustotal sandbox
